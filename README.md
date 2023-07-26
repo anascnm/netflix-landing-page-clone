@@ -1,4 +1,4 @@
-## Netflix Landing Page Clone
+## Netflix Login Page
 
 - Re-created the Netflix landing page using HTML, CSS and a bit of JavaScript
 
